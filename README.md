@@ -6,7 +6,10 @@ All function are made for google cloud function and may not run locally due to s
 ## requirements
 
 
-functions-framework==3.*
+framework==3.*
+
 Flask
+
 requests
+
 gunicorn
